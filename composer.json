@@ -1,0 +1,14 @@
+{
+    "name": "luised/tracking",
+    "description": "This package will help you to track each models' change",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LuisVillalta3",
+            "email": "luisvillalta3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
